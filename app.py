@@ -24,7 +24,7 @@ img = Image.open("usedcar.jpeg")
 
 if page == 'Introduction':
     
-    st.write("△ Market for used cars is increasing day by day and a consumer always wants the best resale price of his car. Using our dataset of used car.")
+    st.write("△ Market for used cars is increasing day by day and a consumer always wants the best resale price of his car.")
     
     st.write("△ Using our dataset of used car, we aimed to clarify some of these unknown variables and provide an easier experience for those searching for a car.")
     st.image(img)
