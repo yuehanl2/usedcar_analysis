@@ -2,10 +2,14 @@
 
 Click [me](https://usedcar-demo2.herokuapp.com/) to the demo app
 
-BY:
+# Team member:
+
 Akanksha Gupta
+
 Yuehan Lan
+
 Rithesh Reddy Manchi Reddy
+
 Gautham Rathinasabapathy
 
 
